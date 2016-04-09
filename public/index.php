@@ -5,3 +5,4 @@ require "../vendor/autoload.php";
 
 # TIP: HTTP headers are printed natively in PHP by invoking header().
 #      Ex. header('Content-Type', 'text/html');
+?>
