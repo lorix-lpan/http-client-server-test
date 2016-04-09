@@ -1,6 +1,6 @@
 <?php
 
-require "../vendor/autoload.php";
+require "./vendor/autoload.php";
 
 use \pillr\library\http\Request  as HttpRequest;
 use \pillr\library\http\Response as HttpResponse;

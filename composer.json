@@ -12,7 +12,7 @@
         ]
     },
     "scripts": {
-        "test": "phpunit ./test/TestHttpServer.php",
+        "test": "phpunit ./tests/TestHttpServer.php",
         "start": "php -S localhost:8000 -t ./public/"
     }
 }
