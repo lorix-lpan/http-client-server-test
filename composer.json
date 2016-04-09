@@ -10,5 +10,9 @@
             "library/http/interfaces",
             "library/http/classes/"
         ]
+    },
+    "scripts": {
+        "test": "phpunit ./test/TestHttpServer.php",
+        "start": "php -S localhost:8000 -t ./public/"
     }
 }
